@@ -26,6 +26,7 @@ Aqui é o Mario Angelino, apaixonado por Python e por transformar dados em infor
 
 ### Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mario.angelino1971/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-angelino-36656420/)
 
 
 
