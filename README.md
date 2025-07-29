@@ -1,4 +1,12 @@
 ## Hi there 👋
+Aqui é o Mario Angelino, apaixonado por transformar dados em informação. 💻
+
+
+### 
+
+
+
+
 
 <!--
 **mario-angelino/mario-angelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
